@@ -1,0 +1,17 @@
+{
+    "name": "Super Customer Service",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Super Customer Service",
+        "/category/asset_value_tracking/token/symbol": "SCS",
+        "/category/asset_value_tracking/token/decimals": "18",
+        "/category/asset_value_tracking/token/supply": "1000000",
+        "/category/collection/entity": true
+    }
+}
